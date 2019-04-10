@@ -166,5 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [Consensys Academy](https://consensys.net/academy/) 
-* [Africa Blockchain Alliance] (https://afriblockchain.org/)
-* [Cryptosavanna] (https://cryptosavannah.com/)
+* [Africa Blockchain Alliance](https://afriblockchain.org/)
+* [Cryptosavanna](https://cryptosavannah.com/)
