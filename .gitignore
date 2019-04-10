@@ -1,0 +1,8 @@
+.DS_Store
+build/
+
+# IdeaIDE
+.idea
+
+# VS Code
+.vscode
