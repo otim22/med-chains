@@ -151,9 +151,9 @@ We use [git](http://github.cm/) for versioning.
 
 * **Otim Fredrick** - *Team lead* - [otim22](https://github.com/otim22)
 
-* Arishain Abraham
+* Arishain Abraham - [Arishian](https://github.com/Arishian)
 
-* Mpimbaza Christian
+* Mpimbaza Christian - [xtianmpimbaza](https://github.com/xtianmpimbaza)
 
 See also the list of [contributors](https://github.com/otim22/med-chains/contributors) who participated in this project.
 
